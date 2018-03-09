@@ -1,0 +1,17 @@
+The requirement document of Agenda:
+
+	Besides the applications that was pointed out by the former head files,
+this edition of Agenda, that is Agenda_beta, has been added two important
+applications: 
+*1. the changing of the information of the users:
+	it contains:
+			the changing of password, email and phone number
+		    To make it more secure, the users have to input the password again
+		to insure that the one who want to change the user's information is the
+		user himself(herself) before changing.
+*2. the improvement of the User Interface:
+	it contains:
+			the welcome page, CU page, help page and more warning for illegal operation.
+		And in the last edition of Agenda, when inputing a single number, if the string
+		input is not a number, the collapse of the program would be caused. This time 
+		we improve the program's ability to deal with the illegal input.
